@@ -1,0 +1,10 @@
+The /home/virtfs directory contains critical operating system files. If you
+remove /home/virtfs, or any directories under /home/virtfs, you will cause
+irreparable damage to your operating system. Do not remove /home/virtfs, or any
+directories under /home/virtfs, unless you have tested, up-to-date backups.
+
+You should ignore any disk usage warnings you receive that are associated with
+the /home/virtfs directory!
+
+For more information about the /home/virtfs directory, visit the documentation
+at https://go.cpanel.net/virtfsdoc
